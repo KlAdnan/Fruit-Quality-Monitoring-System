@@ -184,6 +184,8 @@ If any condition fails: **Bad Fruit**
    - Field 3: Alcohol (MQ-3)
    - Field 4: Methane (MQ-4)
 
+![circuit diagram IOT fruit Quality monitoring System](https://github.com/user-attachments/assets/e1c3ceb8-16d5-4307-8157-65bc6814618a)
+
 ## 📊 ThingSpeak Integration
 
 ThingSpeak provides cloud-based data storage and visualization:
